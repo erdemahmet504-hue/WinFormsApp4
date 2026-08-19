@@ -23,6 +23,10 @@ Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş temel bir öğrenci 
 4. Sistem arka planda notları belirlediğiniz katsayılara göre çarparak toplar.
 5. Hesaplanan nihai sonuç, hem "Ortalama:" etiketinin yanında (label9) belirir hem de alt kısımdaki büyük beyaz alanda öğrenci bilgileriyle birlikte listelenir.
 
+<img width="1496" height="660" alt="image" src="https://github.com/user-attachments/assets/76cb2614-d52a-4f72-8fc1-312b10bfbba7" />
+
+
+
 ## 👨‍💻 Geliştirici
 
 **Ahmet Erdem**
